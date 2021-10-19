@@ -1,2 +1,2 @@
 * [[file:contents.org]]
-* [[file:shit/contents.org]]
+* [[file:shit/contents.png]]
